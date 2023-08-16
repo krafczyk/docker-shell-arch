@@ -1,5 +1,5 @@
 pkgname=docker-shell
-pkgver=v0.1.0.r3.g310ce51  # You can adjust this as per the actual version of your software
+pkgver=v0.2.0.r0.g5018c2e  # You can adjust this as per the actual version of your software
 pkgrel=1
 pkgdesc="A tool to run a Docker container with system volumes mounted"
 arch=('i686' 'x86_64')  # Adjust as needed based on which architectures your software supports
